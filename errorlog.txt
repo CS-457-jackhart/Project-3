@@ -1,0 +1,5 @@
+
+0(55) : error C1503: undefined variable "vMC"
+0(59) : error C1503: undefined variable "vMC"
+0(59) : error C1503: undefined variable "vMC"
+
